@@ -1,0 +1,47 @@
+{
+  "departments": [
+    {
+      "name": "IT Dep",
+      "employees": [
+        {
+          "firstName": "John",
+          "lastName": "Silver"
+        },
+        {
+          "firstName": "Jimmy",
+          "lastName": "Kimmel"
+        },
+        {
+          "firstName": "John",
+          "lastName": "McClane"
+        }
+      ]
+    },
+    {
+      "name": "Accounts Dep",
+      "employees": [
+        {
+          "firstName": "Homer",
+          "lastName": "Simpson"
+        },
+        {
+          "firstName": "Todd",
+          "lastName": "Phillips"
+        }
+      ]
+    },
+    {
+      "name": "Warehouse",
+      "employees": [
+        {
+          "firstName": "Tom",
+          "lastName": "Holland"
+        },
+        {
+          "firstName": "Stan",
+          "lastName": "Smith"
+        }
+      ]
+    }
+  ]
+}
